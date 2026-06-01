@@ -26,7 +26,8 @@ print("Modulo =", modulo(x, y))
 
 ## Output
 
-<img width="187" height="281" alt="image" src="https://github.com/user-attachments/assets/ae795d20-8733-4c53-aca7-e9672830d028" />
+<img width="176" height="84" alt="image" src="https://github.com/user-attachments/assets/48927da2-ca47-49f1-bc0c-bd94d30e9238" />
+
 
 
 ## Result
