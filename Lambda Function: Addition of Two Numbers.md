@@ -30,25 +30,7 @@ print("Sum =", add(x, y))
 
 ## Result
 
-```python
-# Lambda function to add two numbers
 
-add = lambda a, b: a + b
-
-x = int(input())
-y = int(input())
-
-print("Sum =", add(x, y))
-```
-
-**Sample Input**
-
-```text
-10
-20
-```
-
-**Output**
 
 
 The program uses a lambda function to take two arguments and return their sum.
