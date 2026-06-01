@@ -24,7 +24,8 @@ print("Sum =", add(x, y))
 
 ## Output
 
-<img width="177" height="302" alt="image" src="https://github.com/user-attachments/assets/ac30b980-f64c-48fe-9ab0-bc9ae31b2358" />
+<img width="132" height="79" alt="image" src="https://github.com/user-attachments/assets/f7f68188-5732-4ccf-b3ac-5dcefdbc783b" />
+
 
 
 
