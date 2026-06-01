@@ -31,26 +31,7 @@ print("Modulo =", modulo(x, y))
 
 ## Result
 
-```python
-# Function to find modulo of two numbers
 
-def modulo(a, b):
-    return a % b
-
-x = int(input())
-y = int(input())
-
-print("Modulo =", modulo(x, y))
-```
-
-**Sample Input**
-
-```text
-10
-3
-```
-
-**Output**
 
 
 
