@@ -20,7 +20,7 @@ print(bin(num))
 
 ## Output
 
-<img width="109" height="55" alt="image" src="https://github.com/user-attachments/assets/30efcb34-e229-4a38-9e33-8b483f4dd0f7" />
+<img width="827" height="150" alt="image" src="https://github.com/user-attachments/assets/ff948675-a3fd-47de-af12-c2cd0feac5e9" />
 
 
 
