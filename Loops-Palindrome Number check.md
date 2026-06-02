@@ -17,26 +17,24 @@ To write a Python program that checks whether a given number is a **palindrome**
 
 ## 🧾 Program
 ```
-
-
-num = int(input("Enter a number: "))
-temp = num
-rev = 0
-
-while num > 0:
-    digit = num % 10
-    rev = rev * 10 + digit
-    num = num // 10
-
-if temp == rev:
-    print("Palindrome")
+num=int(input())
+rev=0
+temp=num
+while temp>0:
+    rev=(10*rev)+temp%10
+    temp//=10
+if rev==num:
+    print("The given number {} is a Palindrome".format(num))
 else:
-    print("Not a Palindrome")
+    print("The given number {} is not a palindrome".format(num))
+
+
+
 
 ```
 
 ## Output
-<img width="191" height="60" alt="image" src="https://github.com/user-attachments/assets/5bbab689-b0ec-4f78-b6aa-5e1e53e65771" />
+<img width="1049" height="194" alt="image" src="https://github.com/user-attachments/assets/40745dac-52c3-49a5-ab9d-c5e24a9d48d0" />
 
 
 ## Result
